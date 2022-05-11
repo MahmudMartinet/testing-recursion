@@ -6,7 +6,7 @@ namespace AssignmentRecursion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Question 1");
+            Console.WriteLine("Questio 1");
             Console.Write("Enter N: ");
             int n = int.Parse(Console.ReadLine());
             int[] arr = new int[n];
